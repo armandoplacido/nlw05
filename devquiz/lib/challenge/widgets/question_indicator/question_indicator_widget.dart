@@ -20,7 +20,7 @@ class QuestionIndicationWidget extends StatelessWidget {
                   style: AppTextStyles.body,
                 ),
                 Text(
-                  "04 de 10",
+                  " de 10",
                   style: AppTextStyles.body,
                 ),
               ],

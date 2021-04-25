@@ -15,6 +15,7 @@ class AwnserWidget extends StatelessWidget {
   Color get _selectedColorRight =>
       isRight ? AppColors.darkGreen : AppColors.darkRed;
 
+  // ignore: unused_element
   Color get _selectedBorderRight =>
       isRight ? AppColors.lightGreen : AppColors.lightRed;
 
